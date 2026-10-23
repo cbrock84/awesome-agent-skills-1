@@ -709,6 +709,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills
 - [uxuiprinciples/agent-skills](https://github.com/uxuiprinciples/agent-skills) - 5 UX/UI skills: evaluate interfaces against 168 research-backed principles
 - [yshishenya/stitchflow](https://github.com/yshishenya/stitchflow) - Cross-agent UI design skill collection for turning briefs and mockups into screens, variants, HTML, and screenshots
+- [cbrock84/headcount](https://github.com/cbrock84/headcount) - Company-department skills (legal, finance, security, ops), each citing its governing source
 </details>
 
 ---
